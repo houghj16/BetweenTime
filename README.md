@@ -79,6 +79,29 @@ or
 - public/
 - vite.config.ts
 
+## Feature Backlog
+
+The following features are planned or under consideration for future releases:
+
+- **Breaks**: Customizable break intervals and reminders.
+- **Animations**: Engaging visual feedback and transitions.
+- **Sounds**: Optional sound cues for timer events and transitions.
+- **Custom Timers**: User-defined timer lengths for work and break sessions.
+- **Transition Timers**: Specialized timers for scenarios such as:
+  - Meeting prep
+  - Meeting debrief
+  - Get ready to focus
+  - Prep for tomorrow
+- **Statistics & Analytics**: Track productivity, completed sessions, and time spent.
+- **Theme Customization**: Light/dark mode and color themes.
+- **Notification Options**: Desktop and push notifications for timer events.
+- **Integrations**: Sync with calendar or task manager apps.
+- **User Profiles**: Save preferences and track progress across devices.
+- **Accessibility Options**: Enhanced support for screen readers and keyboard navigation.
+- **Mobile Responsiveness**: Optimized experience for mobile and tablet devices.
+
+Have an idea? Open an issue or pull request to suggest new features!
+
 ## Contributing
 
 Contributions are welcome! Please open issues or pull requests for suggestions and improvements.
