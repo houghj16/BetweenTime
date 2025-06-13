@@ -1,0 +1,1 @@
+- Do not include license information in the README.md file.

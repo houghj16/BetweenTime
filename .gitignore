@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+/.vs/BetweenTime/CopilotIndices/17.14.734.62261/CodeChunks.db
+/.vs/BetweenTime/CopilotIndices/17.14.734.62261/CodeChunks.db-shm
+/.vs/BetweenTime/CopilotIndices/17.14.734.62261/CodeChunks.db-wal
+/.vs/BetweenTime/CopilotIndices/17.14.734.62261/SemanticSymbols.db
+/.vs/BetweenTime/CopilotIndices/17.14.734.62261/SemanticSymbols.db-shm
+/.vs/BetweenTime/CopilotIndices/17.14.734.62261/SemanticSymbols.db-wal
+/.vs/BetweenTime/FileContentIndex
+/.vs/BetweenTime/FileContentIndex/a0d35ffe-cadb-434f-adea-9c9abf8ee568.vsidx
+/.vs/BetweenTime/FileContentIndex/a1dd2f13-97d0-41d0-9acc-9479811a8ca6.vsidx
+/.vs/CopilotSnapshots/531607B8E6C8E94198FD6A70AE01FE5F
+/obj/Debug
+/.vs/BetweenTime/copilot-chat/ca4da4d7/sessions
